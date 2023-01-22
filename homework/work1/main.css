@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+p {
+    background: silver;
+}
+
+li {
+    background: moccasin;
+}
+
+img {
+    width: 700px;
+    height: 450px;
+}
