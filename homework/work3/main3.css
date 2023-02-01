@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.father {
+    width: 800px;
+    height: 600px;
+    /*background: #070759;*/
+
+}
+
+.son1 {
+    width: 800px;
+    height: 25%;
+    background: silver;
+    display: flex;
+}
+
+.son2 {
+    width: 800px;
+    height: 50%;
+    background: #070759;
+}
+
+.son3 {
+    width: 800px;
+    height: 25%;
+    background: silver;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.left {
+    width: 400px;
+    height: 150px;
+    /*background: rgba(208, 36, 36, 0.69);*/
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.right {
+    width: 400px;
+    height: 150px;
+    /*background: #000;*/
+}
+
+.icon_left {
+    width: 120px;
+    height: 40px;
+    background: #070759;
+    border-radius: 10px;
+}
+
+.cards {
+    width: 200px;
+    height: 200px;
+    background: #16457a;
+    border-radius: 30px;
+    position: relative;
+    top: -40px;
+}
